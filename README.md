@@ -2,7 +2,8 @@
 Random PasswordGenerator made in C#. This is my first minor/major/working thing ive made in c#
 
 
-![image](https://user-images.githubusercontent.com/38820051/192127895-e7a7fef5-1ba8-4c4c-8d38-bf1c3faed498.png)
+![image](https://user-images.githubusercontent.com/38820051/192128008-7e560cdc-42fe-46fd-8b62-a551e4c29a17.png)
+
 
 
 
